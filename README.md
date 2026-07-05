@@ -109,5 +109,4 @@ This project was created to explore Flutter's capabilities in building smooth, h
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
-
 It helps others discover the project and motivates future improvements.
