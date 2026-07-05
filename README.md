@@ -1,6 +1,5 @@
 # ⚡ EV Charging Animation
 
-## 🎬 Preview
 <p align="center">
   <img src="assets/demo.gif" alt="EV Charging Animation Demo" width="320">
 </p>
