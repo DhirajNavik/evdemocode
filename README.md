@@ -1,19 +1,14 @@
 # ⚡ EV Charging Animation
 
----
-
 ## 🎬 Preview
-
 <p align="center">
   <img src="assets/demo.gif" alt="EV Charging Animation Demo" width="320">
 </p>
-
 
 ## 🌐 Live Demo
 
 👉 https://dhirajnavik.github.io/evdemo/
 
----
 
 ## ✨ Overview
 
@@ -23,7 +18,6 @@ It demonstrates how to build smooth and visually rich animations using **Animati
 
 The goal of this project is to showcase modern Flutter UI techniques that can be used in EV dashboards, charging applications, and concept interfaces.
 
----
 
 ## ✨ Features
 
@@ -38,7 +32,6 @@ The goal of this project is to showcase modern Flutter UI techniques that can be
 - 🚀 Optimized Performance
 - ❤️ Pure Flutter Implementation
 
----
 
 ## 📂 Project Structure
 
@@ -69,7 +62,6 @@ lib
 └── main.dart
 ```
 
----
 
 ## 🎨 Animation Highlights
 
@@ -84,7 +76,6 @@ This project demonstrates several advanced Flutter animation techniques:
 - Fade & Scale animations
 - Responsive UI
 
----
 
 ## 🛠 Tech Stack
 
@@ -95,7 +86,6 @@ This project demonstrates several advanced Flutter animation techniques:
 - AnimationController
 - Interleaved Interval Tweens
 
----
 
 ## 🚀 Getting Started
 
@@ -107,19 +97,15 @@ flutter run
 
 ```
 
----
-
 ## 💡 Inspiration
 
 Inspired by modern electric vehicle charging interfaces, futuristic dashboard concepts, and premium UI animation design.
 
----
 
 ## 🧠 Notes
 
 This project was created to explore Flutter's capabilities in building smooth, high-performance custom animations using CustomPainter, Canvas, and AnimationController without external animation packages.
 
----
 
 ## ⭐ Support
 
